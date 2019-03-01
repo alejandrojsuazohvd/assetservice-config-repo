@@ -1,3 +1,4 @@
+example.value: "USING DEV PROPERTIES FILE"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "false"
